@@ -1,0 +1,6 @@
+
+time ~/codes/stilts/stilts pixfoot ifmt=fits in=wise_2mass_allsky_no_duplicates.fits order=20 mocfmt=fits out=IR_all_sky_BSM.moc radius=radius
+
+MOCPy_example1.ipynb
+
+

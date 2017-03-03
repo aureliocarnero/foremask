@@ -1,0 +1,7 @@
+numpy
+healpy
+astropy
+matplotlib
+mocpy
+astroquery
+
